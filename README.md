@@ -11,15 +11,15 @@
 
 - 🤝 I’m looking for help with **Github**
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 👨‍💻 All of my projects are available at [portfolio link - soon!]
 
-- 📝 I regularly write articles on [blog link](blog link)
+- 📝 I regularly write articles on https://baporek.com/project_exam_1/blog-post-specific-page/
 
 - 💬 Ask me about **HTML,CSS,JS**
 
 - 📫 How to reach me **gaj.bartosz@gmail.com**
 
-- 📄 Know about my experiences [resume link](resume link)
+- 📄 Know about my latest website https://baporek.com/Science_Museum_UPGRADED_2022/index.html
 
 - ⚡ Fun fact **I think im funny**
 
