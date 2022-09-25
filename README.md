@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Github**
 
-- 👨‍💻 All of my projects are available at [portfolio link - soon!]
+- 👨‍💻 All of my projects are available at [https://baporek.com/Portfolio_1/index.html]
 
 - 📝 I regularly write articles on https://baporek.com/project_exam_1/blog-post-specific-page/
 
